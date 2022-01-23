@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>delete-icon.png</file>
+        <file>finished-task.png</file>
+        <file>new-file.png</file>
+        <file>new-icon.png</file>
+        <file>open-icon.png</file>
+        <file>Pending-icon.png</file>
+        <file>save-icon.png</file>
+        <file>today-task.png</file>
+        <file>quit-icon.png</file>
+    </qresource>
+</RCC>
