@@ -2,7 +2,8 @@
 QMainWindow based application with MVC
 
 
-## Table of Content
+## Table of Content 
+
 * [About the homework](#about-the-homework)
 * [TodoApplication](#todoapplication)
   * [ItemBased Approach](#itembased-approach)
