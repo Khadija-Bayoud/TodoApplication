@@ -292,4 +292,8 @@ void todoApp::on_actionDelete_Tasks_triggered()
   }
 ```
 
+Here is a video showing the functionality of the application </br>
+https://user-images.githubusercontent.com/72691265/150692442-5d8b4500-7cd0-4480-8529-d4e2ec39b8ef.mp4
+
+
 
